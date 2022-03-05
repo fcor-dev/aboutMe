@@ -1,0 +1,6 @@
+#mainContent > div{
+    padding: 5px 5px 5px 20px;
+}
+#mainContent > div *{
+    font-family: 'Fredoka', sans-serif;
+}
